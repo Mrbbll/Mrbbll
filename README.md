@@ -39,6 +39,17 @@ I use this profile to share what I'm building and learning. Browse my repositori
     </td>
   </tr>
 </table>
+<p align="center"><b>Creative Tools</b></p>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="20%" align="center" valign="middle"><a href="https://godotengine.org/"><img src="https://img.shields.io/badge/Godot-Engine-81936b?style=flat-square&amp;logo=godotengine&amp;logoColor=white" height="20" alt="Godot Engine"></a></td>
+    <td width="20%" align="center" valign="middle"><a href="https://www.blender.org/"><img src="https://img.shields.io/badge/Blender-3D-81936b?style=flat-square&amp;logo=blender&amp;logoColor=white" height="20" alt="Blender 3D"></a></td>
+    <td width="20%" align="center" valign="middle"><a href="https://www.aseprite.org/"><img src="https://img.shields.io/badge/Aseprite-PixelArt-81936b?style=flat-square&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI%2BPGcgZmlsbD0iI2ZmZiI%2BPHJlY3QgeD0iNSIgeT0iMSIgd2lkdGg9IjYiIGhlaWdodD0iMiIvPjxyZWN0IHg9IjMiIHk9IjMiIHdpZHRoPSIxMCIgaGVpZ2h0PSIyIi8%2BPHJlY3QgeD0iMSIgeT0iNSIgd2lkdGg9IjE0IiBoZWlnaHQ9IjIiLz48cmVjdCB4PSIxIiB5PSI3IiB3aWR0aD0iMyIgaGVpZ2h0PSI3Ii8%2BPHJlY3QgeD0iNiIgeT0iNyIgd2lkdGg9IjQiIGhlaWdodD0iMiIvPjxyZWN0IHg9IjEyIiB5PSI3IiB3aWR0aD0iMyIgaGVpZ2h0PSI3Ii8%2BPHJlY3QgeD0iNCIgeT0iMTIiIHdpZHRoPSI4IiBoZWlnaHQ9IjIiLz48L2c%2BPC9zdmc%2B" height="20" alt="Aseprite Pixel Art"></a></td>
+    <td width="20%" align="center" valign="middle"><a href="https://www.blockbench.net/"><img src="https://img.shields.io/badge/Blockbench-3D-81936b?style=flat-square&amp;logo=blockbench&amp;logoColor=white" height="20" alt="Blockbench 3D"></a></td>
+    <td width="20%" align="center" valign="middle"><a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/badge/Photoshop-Design-81936b?style=flat-square&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI%2BPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNCIgZmlsbD0iIzAwMWUzNiIvPjx0ZXh0IHg9IjQiIHk9IjIzIiBmb250LWZhbWlseT0iQXJpYWwsc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzMxYThmZiI%2BUHM8L3RleHQ%2BPC9zdmc%2B" height="20" alt="Adobe Photoshop"></a></td>
+  </tr>
+</table>
 
 <p align="center"><img src="./assets/paw-divider.svg" width="100%" alt=""></p>
 
