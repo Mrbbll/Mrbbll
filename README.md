@@ -14,7 +14,7 @@
   <tr>
     <td width="9999" align="center">
       <p>
-        <sub><img src="./assets/leaf.png" width="18" height="18" alt=""></sub> &nbsp;
+        <sub><img src="./assets/leaf.png" width="18" height="18" alt=""></sub>  
         <em>A place for projects, experiments, and ideas in progress.</em><br>
         <sub>Keep building. Keep learning. Stay curious.</sub>
       </p>
@@ -22,21 +22,19 @@
   </tr>
 </table>
 
-### <sub><img src="./assets/paw.svg" width="20" height="20" alt=""></sub> About Me
+### <sub></sub> About Me
 
 I use this profile to share what I'm building and learning. Browse my repositories to see the projects and ideas I'm exploring.
 
-### Minecraft Server Stack
-
 <p align="center">
-  <a href="https://purpurmc.org/"><img src="https://img.shields.io/badge/Purpur-Server-81936b?style=flat-square" alt="Purpur server software"></a>
-  <a href="https://docs.papermc.io/paper/"><img src="https://img.shields.io/badge/Paper-Server-81936b?style=flat-square" alt="Paper server software"></a>
-  <a href="https://papermc.io/software/velocity/"><img src="https://img.shields.io/badge/Velocity-Proxy-81936b?style=flat-square" alt="Velocity proxy"></a>
+  <a href="https://purpurmc.org/"><img src="https://purpurmc.org/favicon.ico" height="24" alt="Purpur logo"><br><img src="https://img.shields.io/badge/Purpur-Server-81936b?style=flat-square" alt="Purpur server software"></a>
+  <a href="https://docs.papermc.io/paper/"><img src="https://assets.papermc.io/brand/papermc_logo.256.png" height="24" alt="PaperMC logo"><br><img src="https://img.shields.io/badge/Paper-Server-81936b?style=flat-square" alt="Paper server software"></a>
+  <a href="https://papermc.io/software/velocity/"><img src="https://assets.papermc.io/brand/velocity_logo_blue.min.svg" height="24" alt="Velocity logo"><br><img src="https://img.shields.io/badge/Velocity-Proxy-81936b?style=flat-square" alt="Velocity proxy"></a>
 </p>
 
 <p align="center"><img src="./assets/paw-divider.svg" width="100%" alt=""></p>
 
-### <sub><img src="./assets/leaf.png" width="20" height="20" alt=""></sub> Say Hello
+### <sub></sub> Say Hello
 
 Feel free to open an issue or discussion in one of my repositories if you'd like to talk about a project.
 
@@ -53,7 +51,8 @@ Feel free to open an issue or discussion in one of my repositories if you'd like
 </p>
 
 <!-- Page views, not unique visitors. -->
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mrbbll&amp;style=flat-square&amp;color=81936b&amp;label=Profile+views" alt="Profile views" height="20">
+  <img src="https://komarev.com/ghpvc/?username=Mrbbll&style=flat-square&color=81936b&label=Profile+views" alt="Profile views" height="20">
 </p>
 
