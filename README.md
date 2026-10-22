@@ -26,11 +26,19 @@
 
 I use this profile to share what I'm building and learning. Browse my repositories to see the projects and ideas I'm exploring.
 
-<p align="center">
-  <a href="https://purpurmc.org/"><img src="https://purpurmc.org/favicon.ico" height="24" alt="Purpur logo"><br><img src="https://img.shields.io/badge/Purpur-Server-81936b?style=flat-square" alt="Purpur server software"></a>
-  <a href="https://docs.papermc.io/paper/"><img src="https://assets.papermc.io/brand/papermc_logo.256.png" height="24" alt="PaperMC logo"><br><img src="https://img.shields.io/badge/Paper-Server-81936b?style=flat-square" alt="Paper server software"></a>
-  <a href="https://papermc.io/software/velocity/"><img src="https://assets.papermc.io/brand/velocity_logo_blue.min.svg" height="24" alt="Velocity logo"><br><img src="https://img.shields.io/badge/Velocity-Proxy-81936b?style=flat-square" alt="Velocity proxy"></a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="33.33%" align="center" valign="middle">
+      <a href="https://purpurmc.org/"><img src="https://purpurmc.org/favicon.ico" height="20" alt="Purpur logo" align="middle"><img src="https://img.shields.io/badge/Purpur-Server-81936b?style=flat-square" height="20" alt="Purpur server software badge" align="middle"></a>
+    </td>
+    <td width="33.33%" align="center" valign="middle">
+      <a href="https://docs.papermc.io/paper/"><img src="https://assets.papermc.io/brand/papermc_logo.256.png" height="20" alt="PaperMC logo" align="middle"><img src="https://img.shields.io/badge/Paper-Server-81936b?style=flat-square" height="20" alt="Paper server software badge" align="middle"></a>
+    </td>
+    <td width="33.33%" align="center" valign="middle">
+      <a href="https://papermc.io/software/velocity/"><img src="https://assets.papermc.io/brand/velocity_logo_blue.min.svg" height="20" alt="Velocity logo" align="middle"><img src="https://img.shields.io/badge/Velocity-Proxy-81936b?style=flat-square" height="20" alt="Velocity proxy badge" align="middle"></a>
+    </td>
+  </tr>
+</table>
 
 <p align="center"><img src="./assets/paw-divider.svg" width="100%" alt=""></p>
 
